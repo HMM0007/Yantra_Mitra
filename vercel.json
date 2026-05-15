@@ -1,6 +1,3 @@
 {
-  "buildCommand": "cd website && npm run build",
-  "outputDirectory": "website/dist",
-  "framework": "vite",
-  "rootDirectory": "website"
+  "root": "website"
 }
